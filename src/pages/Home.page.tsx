@@ -1,11 +1,14 @@
-import { Welcome } from '../components/Welcome/Welcome';
-import { ColorSchemeToggle } from '../components/ColorSchemeToggle/ColorSchemeToggle';
+import { Hero } from '../components/Hero';
+import { MainLayout } from '../components/MainLayout';
 
 export function HomePage() {
   return (
     <>
-      <Welcome />
-      <ColorSchemeToggle />
+      <Hero />.
+      <MainLayout />
+      {/* Workshop title */}
+      {/* Grid for teachers add new teach etc */}
+      {/* Grid for courses add new course etc */}
     </>
   );
 }

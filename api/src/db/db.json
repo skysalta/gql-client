@@ -1,0 +1,31 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "sky"
+  },
+  "task": [
+    {
+      "id": "strjBWMVGjm50l6LGwepDotyaaing",
+      "createdAt": 1693047101615,
+      "name": "First Task",
+      "type": "SEO",
+      "description": "First task description is short"
+    },
+    {
+      "id": "i9vxu12sR_6CJOJkFL6-h",
+      "createdAt": 1693170604437,
+      "name": "test",
+      "type": "BA",
+      "description": "test",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "2TnhyTLiV5h3Qu5R9Z7Iy",
+      "createdAt": 1693170662633,
+      "name": "test",
+      "type": "BA",
+      "description": "NOWtest",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
+}

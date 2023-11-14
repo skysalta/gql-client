@@ -1,0 +1,9 @@
+.columnForm {
+  display: grid;
+  grid-direction: column;
+  gap: var(--mantine-spacing-md);
+
+  @media (max-width: $mantine-breakpoint-md) {
+    font-size: rem(50px);
+  }
+}
